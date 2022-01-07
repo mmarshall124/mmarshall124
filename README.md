@@ -1,4 +1,4 @@
-# Hi I'm Matthew Marshall. Welcome to my Github page! 👋
+# Hi I'm Matthew Marshall, welcome to my Github page! 👋
 
 I'm currently working as a software developer for Penn East Federal Credit Union. The majority of my work is with large data manipulation and presentation using SQL, Python, and Java.
 
