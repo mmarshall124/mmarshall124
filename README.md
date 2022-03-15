@@ -4,8 +4,7 @@ I'm currently working as a software developer for Penn East Federal Credit Union
 
 ## Interests
 I'm passionate about data science and scientific programming! Many of my projects are based around different machine learning methods including Neural Networks,
-Random Forest Regression, and Monte Carlo Methods. I currently run a (very work in progress) [dev blog](https://datadrops.dev) where I hope to talk about some of the projects I'm working on
-right now!
+Random Forest Regression, and Monte Carlo Methods.
 
 
 Stepping out of the data world a little bit, I'm very interested in procedural generation projects, I've done some game development including a [1-month game jam](https://github.com/mmarshall124/Recipe-for-love),
